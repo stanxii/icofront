@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "js": "/assets/admin.chunk.js"
+  },
+  "graphql-tag": {
+    "js": "/assets/graphql-tag.chunk.js"
+  },
+  "privacy": {
+    "js": "/assets/privacy.chunk.js"
+  },
+  "about": {
+    "js": "/assets/about.chunk.js"
+  },
+  "client": {
+    "js": "/assets/client.js"
+  },
+  "vendor": {
+    "js": "/assets/vendor.js"
+  }
+}
